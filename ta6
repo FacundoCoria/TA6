@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<fieldset>
+    <legend>Seleccione un club:</legend>
+      
+    <div>
+      <input type="radio" id="Chelsea" name="club" value="Chelsea" checked />
+      <label for="Chelsea">Chelsea</label>
+    </div>
+      
+    <div>
+      <input type="radio" id="Peñarol" name="club" value="Peñarol" />
+      <label for="Peñarol">Peñarol</label>
+    </div>
+    <div>
+      <input type="radio" id="Nacional" name="club" value="Nacional" />
+      <label for="Nacional">Nacional</label>
+    </div>
+</fieldset>
+</body>
+</html>
